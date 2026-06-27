@@ -63,9 +63,4 @@ The system continuously reads data from all sensors and displays the values on t
 * Plant Monitoring Systems
 * Educational Embedded Systems Projects
 
-## Author
-
-**Praveen Kumar N**
-
-⭐ If you found this project useful, consider giving this repository a star!
 
